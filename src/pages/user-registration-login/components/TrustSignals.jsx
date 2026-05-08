@@ -43,7 +43,7 @@ const TrustSignals = () => {
       
       <div className="mt-3 text-center">
         <p className="text-xs text-muted-foreground">
-          © {new Date().getFullYear()} BusBooker. All rights reserved.
+          © {new Date().getFullYear()} TravelHub. All rights reserved.
         </p>
       </div>
     </div>

@@ -1,18 +1,19 @@
-# React
+# TravelHub - Travel & Tourism Platform
 
-A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
+A modern React-based travel and tourism booking platform with bus, hotel, and tour booking capabilities. Built with the latest frontend technologies for responsive and fast user experiences.
 
 ## 🚀 Features
 
-- **React 18** - React version with improved rendering and concurrent features
-- **Vite** - Lightning-fast build tool and development server
-- **Redux Toolkit** - State management with simplified Redux setup
-- **TailwindCSS** - Utility-first CSS framework with extensive customization
-- **React Router v6** - Declarative routing for React applications
-- **Data Visualization** - Integrated D3.js and Recharts for powerful data visualization
-- **Form Management** - React Hook Form for efficient form handling
-- **Animation** - Framer Motion for smooth UI animations
-- **Testing** - Jest and React Testing Library setup
+- **Bus Booking** - Search, compare, and book buses across routes
+- **Seat Selection** - Interactive seat map for comfortable booking experience
+- **User Authentication** - Secure login and registration system
+- **Booking Management** - Track and manage all your bookings in one dashboard
+- **Mobile Tickets** - Digital ticket display with QR codes
+- **Operator Profiles** - Browse operator details, reviews, and policies
+- **Real-time Search** - Advanced filters and sorting options
+- **Responsive Design** - Mobile-first approach with TailwindCSS
+- **React 18** - Modern React with hooks and concurrent features
+- **Fast Development** - Vite for lightning-fast dev server
 
 ## 📋 Prerequisites
 

@@ -75,7 +75,7 @@ const Header = () => {
               <Icon name="Bus" size={20} color="white" />
             </div>
             <span className="text-xl font-bold text-foreground font-sans">
-              BusBooker
+              TravelHub
             </span>
           </button>
         </div>

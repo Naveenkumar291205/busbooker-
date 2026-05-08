@@ -54,7 +54,7 @@ const UserRegistrationLogin = () => {
             <Icon name="Bus" size={20} color="white" />
           </div>
           <span className="text-xl font-bold text-foreground font-sans">
-            BusBooker
+            TravelHub
           </span>
         </button>
 
@@ -70,7 +70,7 @@ const UserRegistrationLogin = () => {
             {/* Welcome Message */}
             <div className="text-center mb-6">
               <h1 className="text-2xl font-bold text-foreground mb-2">
-                {activeTab === 'login' ? 'Welcome Back!' : 'Join BusBooker'}
+                {activeTab === 'login' ? 'Welcome Back!' : 'Join TravelHub'}
               </h1>
               <p className="text-muted-foreground text-sm">
                 {activeTab === 'login' ?'Sign in to manage your bookings and travel plans' :'Create your account to start booking bus tickets'
